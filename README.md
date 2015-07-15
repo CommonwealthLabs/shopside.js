@@ -1,5 +1,5 @@
-# letters.js 0.0.1
-A Letter Writing Campaign for the LRT Route in Brampton
+# shopside.js 0.0.1
+A fork of letters.js. Turning this into a MEAN stack MMO marketplace app.
 
 ### Technologies
 
@@ -14,27 +14,14 @@ A Letter Writing Campaign for the LRT Route in Brampton
 
 ## Todo List
 
-### Content
-
-_Assignee_: Harpreet Zingh
-
-* Emails of Councillors
-* Phone Numbers of Councillors (to display on "Call Your Councillor Now!" screen)
-
 ### Front End
 
 _Assignee_: Sushil Tailor
 
-* Build Clickable Ward Map. Clicking on your ward should fill in your form with the following information:
-    * ~~Ward Numbers (Ward 1 => Wards 1 & 5)~~ **DONE**
-    * ~~Name of City & Regional Councillors (Ward 2 => Doug Whillans & Michael Pallesci)~~ **DONE**
-    * Ward Map Functional
-* $http.get API requests to use for letter and councillor data
-* $http.post Requests should feed into API
-* "Thank You For Supporting the LRT" View
-* Splitting Sections into Partials
-* 3 Step Application: Pick Ward => Input Info => Click Send
-    * Show which step user is on
+* Front End Layout in MATERIALIZE, for MOBILE <- MANDATORY
+    * Front End Marketplace Feed
+    * 
+
 
 ### Back End
 
